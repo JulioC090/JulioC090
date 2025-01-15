@@ -20,6 +20,38 @@ Sou apaixonado por desenvolver soluções eficientes e escaláveis. Aqui estão 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## 📊 GitHub Stats
+<div align="center">
+  <picture>
+    <source
+      height=150
+      srcset="https://github-readme-stats.vercel.app/api?username=julioc090&hide=contribs&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=150
+      srcset="https://github-readme-stats.vercel.app/api?username=julioc090&hide=contribs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=julioc090&hide=contribs&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source
+      height=150
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julioc090&layout=compact&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=150
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julioc090&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioc090&layout=compact" />
+  </picture>
+</div>
+
+
 ## 🌱 Em constante evolução
 Atualmente, estou trabalhando em um  gerador de commits integrado com a API da OpenAI. O que me permite explorar e testar as capacidades da inteligência artificial, aprimorando meu entendimento sobre suas aplicações práticas no desenvolvimento de software.
 
