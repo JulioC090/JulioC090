@@ -58,5 +58,11 @@ Atualmente, estou trabalhando em um  gerador de commits integrado com a API da O
 ## 💬 Aberto para Colaborações
 Estou sempre em busca de novos desafios e colaborações interessantes! Se você tem um projeto inovador ou deseja compartilhar conhecimentos, fique à vontade para entrar em contato.
 
+## 📌 Veja meus projetos e me siga
+Já que você chegou até aqui, que tal dar uma olhada nos projetos que deixei **pinados no meu perfil**?
+Você também pode conferir todos os meus [repositórios](https://github.com/JulioC090?tab=repositories)!
+
+Se curtir o conteúdo, não esqueça de me seguir no GitHub para acompanhar novos projetos! 🚀
+
 ## 📞 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-ziviani-753308188/)
