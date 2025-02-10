@@ -65,4 +65,4 @@ Você também pode conferir todos os meus [repositórios](https://github.com/Jul
 Se curtir o conteúdo, não esqueça de me seguir no GitHub para acompanhar novos projetos! 🚀
 
 ## 📞 Contatos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-ziviani-753308188/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-ziviani-753308188/ "Me siga no LinkedIn")
